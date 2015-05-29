@@ -19,6 +19,7 @@ import java.util.ArrayList;
  * Created by Duy on 5/17/2015.
  */
 public class FlickrFetchr {
+	/* this is a fucking tag v1.0 */
     public static final String TAG = "FlickrFetchr";
     private static final String ENDPOINT = "http://api.flickr.com/services/rest/";
     private static final String API_KEY = "yourApiKeyHere";
